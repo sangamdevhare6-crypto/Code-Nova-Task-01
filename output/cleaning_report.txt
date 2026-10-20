@@ -1,0 +1,33 @@
+
+DATA CLEANING AND PREPROCESSING REPORT
+======================================
+
+Original rows: 51
+Cleaned rows: 50
+
+Duplicate rows removed:
+1
+
+Missing values BEFORE cleaning:
+Student_ID    0
+Name          0
+Age           3
+Gender        0
+City          0
+Marks         5
+Join_Date     0
+Email         0
+
+Missing values AFTER cleaning:
+Student_ID    0
+Name          0
+Age           0
+Gender        0
+City          0
+Marks         0
+Join_Date     0
+Email         0
+
+Cleaned dataset shape: (50, 8)
+
+Output file: C:\Users\SANGAM\OneDrive\Attachments\destop\Code nova\output\cleaned_data.csv

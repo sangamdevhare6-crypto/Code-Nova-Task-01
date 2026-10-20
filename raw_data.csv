@@ -1,0 +1,53 @@
+
+Student_ID,Name,Age,Gender,City,Marks,Join_Date,Email
+1, Rahul Sharma,20,Male,Mumbai,85,2024-01-15,rahul@example.com
+2,PRIYA PATIL,21,F,PUNE,92,15/02/2024,priya@example.com
+3,Amit Verma,,male,mumbai,78,2024/03/10,amit@example.com
+4,Neha Singh,22,Female,Nagpur,NA,2024-04-01,neha@example.com
+5,Arjun Desai,20,Male,Pune,88,2024-05-12,arjun@example.com
+5,Arjun Desai,20,Male,Pune,88,2024-05-12,arjun@example.com
+6,Sara Khan,twenty,Female,NASHIK,91,2024-06-18,sara@example.com
+7,Rohan Joshi,19,M,Chhatrapati Sambhajinagar,74,2024-07-20,rohan@example.com
+8,Meera Kulkarni,23,Female,pune,,2024-08-05,meera@example.com
+9,Dev Shah,21,Male,Mumbai,105,2024-09-02,dev@example.com
+10,Anaya Rao,20,Female,Nagpur,81,not-a-date,anaya@example.com
+11,Kabir Khan,22,Male,nashik,67,2024-10-11,kabir@example.com
+12,Riya More,19,Female,Pune,89,2024-11-02,riya.more@example.com
+13,OMKAR PAWAR,20,M,AURANGABAD,76,03/11/2024,omkar@example.com
+14,Kavya Joshi,,F,Mumbai,94,2024/11/14,kavya@example.com
+15,Vikram Jadhav,24,Male,nashik,68,2024-12-01,VIKRAM@example.com
+16,Aarav Kulkarni,21,male,PUNE,,12/12/2024,aarav@example.com
+17,Isha Shah,22,Female,Nagpur,87,2024-12-19,isha@example.com
+18,Nikhil Patil,twenty-one,M,Pune,73,2025-01-05,nikhil@example.com
+19,Sana Shaikh,20,FEMALE,Mumbai,91,2025-01-18,sana@example.com
+20,Aditya Deshmukh,23,Male,Chhatrapati Sambhajinagar,82,2025-02-01,aditya@example.com
+21,Pooja Kale,21,Female,NAGPUR,88,2025-02-12,pooja@example.com
+22,Karan Mehta,25,Male,Mumbai,102,2025-02-21,karan@example.com
+23,Tanvi Pawar,19,F,Pune,79,not-known,tanvi@example.com
+24,Yash Soni,22,Male,Nashik,,2025-03-05,yash@example.com
+25,Mira Nair,20,Female,Pune,86,2025-03-16,mira@example.com
+26,Devendra Shinde,27,M,Mumbai,71,2025-03-27,devendra@example.com
+27,Aditi Bhosale,21,Female,Aurangabad,93,2025-04-02,aditi@example.com
+28,Siddharth Rao,20,male,Nagpur,84,2025-04-15,siddharth@example.com
+29,Anushka Patil,,Female,PUNE,90,2025-04-22,anushka@example.com
+30,Manav Jain,22,M,Nashik,77,2025-05-03,manav@example.com
+31,Sneha Pawar,23,Female,Mumbai,95,2025-05-14,sneha@example.com
+32,Rohan Joshi,19,M,Chhatrapati Sambhajinagar,74,2024-07-20,rohan@example.com
+33,Farhan Khan,21,Male,nashik,80,2025-05-25,farhan@example.com
+34,Naina Verma,20,Female,Pune,83,2025-06-01,naina@example.com
+35,Pranav Gupta,22,Male,Mumbai,89,2025-06-11,pranav@example.com
+36,Simran Kaur,24,F,Nagpur,,2025-06-20,simran@example.com
+37,Ishaan Rao,21,M,Pune,78,2025-07-02,ishaan@example.com
+38,Anjali Desai,20,Female,Mumbai,92,2025-07-12,anjali@example.com
+39,Rahul Sharma,20,Male,Mumbai,85,2024-01-15,rahul@example.com
+40,Kriti Singh,22,Female,Nashik,88,2025-07-29,kriti@example.com
+41,Aman Yadav,19,M,Pune,69,2025-08-03,aman@example.com
+42,Pari Kulkarni,21,Female,Mumbai,96,2025-08-15,pari@example.com
+43,Neil Dutta,20,Male,Nagpur,81,2025-08-25,neil@example.com
+44,Zoya Sheikh,23,female,Nashik,90,2025-09-04,zoya@example.com
+45,Ritesh Pawar,22,M,PUNE,75,2025-09-17,ritesh@example.com
+46,Ayesha Khan,20,Female,Mumbai,87,2025-09-26,ayesha@example.com
+47,Harsh Vaidya,21,Male,Aurangabad,84,2025-10-08,harsh@example.com
+48,Sakshi More,19,F,Nagpur,92,2025-10-19,sakshi@example.com
+49,Pratik Shinde,26,Male,Nashik,79,2025-10-28,pratik@example.com
+50,Mansi Shah,20,Female,Pune,88,2025-11-09,mansi@example.com
